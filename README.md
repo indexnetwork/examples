@@ -6,8 +6,12 @@ Welcome to the Index Network Examples Repository. This repository contains examp
 
 - [Main Repository](https://github.com/index-network/index)
 - [Examples](#examples)
-  - [Index Network & CrewAI Integration](https://github.com/indexnetwork/examples/tree/main/crewai) Bringing a composable vector database with autonomous agents together
-  - [Composable discovery across Protocol Labs Ecosystem companies ](https://github.com/indexnetwork/example-pl-directory)
+
+  - [CrewAI Integration](https://github.com/indexnetwork/examples/tree/main/crewai)
+    Bringing a composable vector database with autonomous agents together
+
+  - [Protocol Labs Directory ](https://github.com/indexnetwork/example-pl-directory)
+    Composable discovery across Protocol Labs Ecosystem companies
 
 ## Getting Started
 
